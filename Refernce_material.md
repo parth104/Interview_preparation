@@ -22,3 +22,11 @@
     * Very Important for Low level Design: https://www.educative.io/courses/grokking-the-object-oriented-design-interview
     * Low level Designs are based on: https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4 
     * Useful Design Patterns: https://www.geeksforgeeks.org/software-design-patterns/ 
+
+# iOS Developer Resources
+
+* https://developer.apple.com/videos/play/wwdc2016/724/
+* https://cs193p.sites.stanford.edu/
+
+# NPTEL DSA and Algorithm lectures by IIT Delhi 
+https://nptel.ac.in/courses/106/102/106102064/
