@@ -30,3 +30,6 @@
 
 # NPTEL DSA and Algorithm lectures by IIT Delhi 
 https://nptel.ac.in/courses/106/102/106102064/
+
+# 500+ Data Structures and Algorithms practice problems
+https://github.com/bollwarm/DataStructuresAlgorithms
