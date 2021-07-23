@@ -33,3 +33,10 @@ https://nptel.ac.in/courses/106/102/106102064/
 
 # 500+ Data Structures and Algorithms practice problems
 https://github.com/bollwarm/DataStructuresAlgorithms
+
+# HR and Manager round Questions
+1. How will you react when you know that what your manager telling you is wrong?
+2. Suppose you are working as developer and System given to you is not working properly, How will you raise your concern?
+3. You are in team with a person who is not working productively, How will you handle this situation?
+4. What will you do if manager assigned a task which you know you can not complete independantly?
+5. Why do you want to join this company?
