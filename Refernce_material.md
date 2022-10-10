@@ -3,6 +3,8 @@
 1. Resume tips from Google employee: https://youtu.be/BYUy1yvjHxE
 2. Resume tips from Amazon employee: https://www.youtube.com/watch?v=4uYTrp3G-u4
 
+# Tech Interview Handbook
+https://www.techinterviewhandbook.org/
 
 # System Design Reference Materials
 
